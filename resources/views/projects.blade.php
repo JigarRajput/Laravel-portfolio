@@ -4,7 +4,7 @@
 <div class="container">
 <div class="row my-5">
 
-    <div class="card ms-sm-4 ms-4 mb-sm-4 mb-4" style="width:350px">
+    <div class="card ms-sm-2 ms-4 mb-sm-4 mb-4" style="width:350px">
         <div class="card-body">
         <div class="card-title"><strong>Book-Baazar</strong></div>
             Full stack web application using Reactjs, PostgreSQL, and SpringBoot Rest API
@@ -33,7 +33,7 @@
 
 <div class="row">
 
-    <div class="card ms-sm-4 ms-4 mb-sm-4 mb-4" style="width:350px">
+    <div class="card ms-sm-2 ms-4 mb-sm-4 mb-4" style="width:350px">
         <div class="card-body">
         <div class="card-title"><strong>NewsApp- Android App</strong></div>
            Simple news app to read news for different news agencies !!
